@@ -1,0 +1,7 @@
+{
+  "name": "Emibot",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "repository": "https://github.com/xzendercage/emibot",
+  "logo": "https://i.imgur.com/PvRDnBk.jpeg",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
